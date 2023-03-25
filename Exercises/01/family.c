@@ -5,10 +5,12 @@
 
 int main() {
     int status;
-    pid1 = fork();
-    if(pid1 == 0)
-	pid2 = fork()y
- 
+    pid_t pid = fork();
+    
+
+
+    
+
     return 0;
 }
 
